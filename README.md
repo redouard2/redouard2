@@ -1,5 +1,11 @@
 <h1>Hi, I'm Ralph Edouard II! <br/><a href="https://github.com/redouard2">Programmer</a>, <a href="https://www.linkedin.com/in/ralph-edouard-ii/">Cybersecurity Professional</a>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Azure SOC Project</b>
+  - [Azure SOC + Honeynet](https://github.com/redouard2/Azure-SOC)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
