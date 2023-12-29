@@ -4,7 +4,8 @@
 
 - <b>Azure SOC Project</b>
   - [Azure SOC + Honeynet](https://github.com/redouard2/Azure-SOC)
-
+- <b>OpenVAS Vulnerability Management Project</b>
+  - [OpenVAS Vulnerability Lab](https://github.com/redouard2/OpenVAS-VulnLab)
 
 
 <h2> 🤳 Connect with me:</h2>
