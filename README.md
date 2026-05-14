@@ -131,10 +131,4 @@ Pursuing senior-level roles in **Cloud Security, DevSecOps, and Security Archite
 
 ---
 
-## 🤳 Connect with me
 
-[![Ralph Edouard II | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/ralph-edouard-ii)
-[![Ralph Edouard II | Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/REasy93)
-[![Ralph Edouard II | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/ralph_edboi93/)
-
-🔗 linkedin.com/in/ralph-edouard-ii
