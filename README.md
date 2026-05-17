@@ -24,7 +24,7 @@ Built a small-scale Security Operations Center in **Microsoft Azure**, deploying
 
 ---
 
-### 🔗 [Azure Static Website Hosting From Scratch](https://github.com/redouard2)
+### 🔗 [Azure Static Website Hosting From Scratch](https://github.com/redouard2/azure-static-website-lab)
 
 Deployed a static website end-to-end in **Microsoft Azure**, configuring storage, hosting, and access controls from the ground up.
 
