@@ -36,7 +36,6 @@ Deployed a static website end-to-end in **Microsoft Azure**, configuring storage
 * Custom domain and HTTPS considerations
 * Cloud resource lifecycle and cost awareness
 
-> *Repository coming soon — write-up and configuration steps in progress.*
 
 ---
 
