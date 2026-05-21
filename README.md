@@ -1,6 +1,6 @@
-# Hi — I'm Ralph Edouard II | Cloud Security & DevSecOps
+# Hi — I'm Ralph Edouard II | Cybersecurity, Cloud Security & DevSecOps
 
-Cybersecurity professional with hands-on experience across **Cloud Security, Security Operations, Vulnerability Management, and DevSecOps workflows**.
+IT professional with hands-on experience across **Cybersecurity, Cloud Security, Security Operations, Vulnerability Management, and DevSecOps workflows**.
 
 My background combines a broad cybersecurity foundation — validated through certifications spanning offensive, defensive, and architectural domains — with lab-based deployments in **Microsoft Azure**, focusing on SOC engineering, threat detection, infrastructure-as-code, and secure cloud-native operations.
 
