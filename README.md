@@ -16,7 +16,8 @@ A 12-lab Azure series. Each lab gets a video walkthrough, a repo, and an honest 
 | --- | --- | --- |
 | **001** | Static website on Blob Storage — and the $1,000 cleanup lesson | [azure-static-website-lab](https://github.com/redouard2/azure-static-website-lab) |
 | **002** | Two-tier VNet: public web subnet, private DB subnet, NSG-enforced isolation | [azure-2tier-vnet-lab](https://github.com/redouard2/azure-2tier-vnet-lab) |
-| **003** | *in progress* | — |
+| **003** | PaaS migration: Azure SQL replaces the DB VM, password in Key Vault, web VM reads it via Managed Identity | [azure-paas-keyvault-lab](https://github.com/redouard2/azure-paas-keyvault-lab) |
+| **004** | Terraform: the Lab 002 network as code, plus drift in both directions | [azure-terraform-lab](https://github.com/redouard2/azure-terraform-lab) |
 
 Coming up: IaC (Bicep/Terraform), DevSecOps pipelines, identity, detection. Then labs from the **GRC Engineering** program.
 
